@@ -1,0 +1,88 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    text-align: center;
+    font-size:80px;
+    color: black;
+    
+    
+    
+}
+span{
+    color:chartreuse;
+}
+section{
+    display:flex;
+    padding:5px;
+    margin-bottom: 100px;
+    margin-left:100px;
+    
+}
+#skip{
+    color:tomato;
+}
+.half-width{
+    width:50%;
+
+}
+.half-width image{
+    width:30%;
+}
+.button{
+    border:none;
+    width:20px, 50px;
+    text-decoration: none;
+
+    border-radius: 30px;
+    background-image:linear-gradient(tomato, orange);
+    margin:0;
+}
+#eat{
+    width:300px;
+    height: 500px;
+
+}
+.equql{
+    width:30%;
+    border:%;
+    margin:4%;
+    box-shadow:10px 10px gray;
+ 
+}
+
+#fast{
+    width:300px;
+    height: 300px;
+}
+#middle{
+    width:300px;
+    height: 300px;
+    border-radius: 20px;
+}
+#last{
+    width:300px;
+    height: 300px;
+   
+    
+}
+#right{
+    margin-top: 60px;
+   margin-left: 4%;
+}
+.follower{
+    width:300px,100px;
+    text-align: center;
+}
+#first-background{
+    background-color:rgb(248, 244, 244);
+}
+#second-background:{
+    background-image:url(images/shapes/7.png) ;
+}
+
+#last-background{
+    text-shadow: lightsteelblue;
+
+}
+
