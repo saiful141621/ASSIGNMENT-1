@@ -1,23 +1,26 @@
 body{
     font-family: 'Oswald', sans-serif;
 }
+
 h1{
     text-align: center;
     font-size:80px;
     color: black;
-    
-    
-    
+    background-position: center;
+
 }
 span{
     color:chartreuse;
 }
 section{
     display:flex;
-    padding:5px;
+    padding:0px;
     margin-bottom: 100px;
   
     
+}
+.first-background{
+    background-color:rgb(250, 244, 244);
 }
 #skip{
     color:tomato;
@@ -44,20 +47,8 @@ section{
 
 }
 
- 
-}
+    
 
-
-
-
-   
-}
-#first-background{
-    background-color:rgb(88, 8, 8);
-}
-#second-background:{
-    background-color: rgb(107, 13, 13);
-}
 
 #last-background{
     text-shadow: lightsteelblue;
@@ -66,12 +57,17 @@ section{
   background-color: blanchedalmond;
 
 }
+.second-background{
+    background-image: url(images/shapes/7.png);
+}
 .equal{
     width:30%;
     border-radius:20px;
     margin:4%;
-    padding:10px;
-    box-shadow: 0 0 10px 10px #ccc
+    padding:20px;
+    box-shadow: 0 0 10px 10px #ccc;
+
+
 }
 #fast{
     width:300px;
@@ -126,4 +122,9 @@ footer{
 #shape{
     width: 250px;
     height:400px;
+}
+.recepies{
+    width:95%;
+
+    text-align: center;
 }
