@@ -43,16 +43,36 @@ section{
     height: 500px;
 
 }
+
+ 
+}
+
+
+
+
+   
+}
+#first-background{
+    background-color:rgb(88, 8, 8);
+}
+#second-background:{
+    background-color: rgb(107, 13, 13);
+}
+
+#last-background{
+    text-shadow: lightsteelblue;
+    display: flex;
+   
+  background-color: blanchedalmond;
+
+}
 .equal{
     width:30%;
     border-radius:20px;
     margin:4%;
     padding:10px;
     box-shadow: 0 0 10px 10px #ccc
-
- 
 }
-
 #fast{
     width:300px;
     height: 300px;
@@ -69,29 +89,12 @@ section{
     
 }
 
-}
 
-   
-}
-#first-background{
-    background-color:rgb(250, 246, 246);
-}
-#second-background:{
-    background-color: rgb(107, 13, 13);
-}
-
-#last-background{
-    text-shadow: lightsteelblue;
-    display: flex;
-    border:5%;
-    margin:5%;
-  background-color: blanchedalmond;
-
-}
 #left{
    
     border-radius: 20px;
     background-color: whitesmoke;
+   
 }
 #center{
     border:10px;
@@ -102,6 +105,7 @@ section{
     border:10px;
     border-radius: 20px;
     background-color: whitesmoke;
+    
 }
 .follower{
     width:30%;
